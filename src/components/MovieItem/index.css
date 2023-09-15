@@ -1,0 +1,25 @@
+.popup-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.video-container {
+  text-align: right;
+  margin-bottom: 15px;
+  border-style: none;
+}
+
+.btn {
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+  height: 40px;
+  width: 50px;
+  outline: none;
+}
+
+.cross-icon {
+  font-size: 30px;
+  color: #231f20;
+}

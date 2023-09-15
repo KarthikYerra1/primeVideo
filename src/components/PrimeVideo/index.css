@@ -1,0 +1,24 @@
+.app-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100vw;
+}
+
+.pv-image {
+  max-width: 100vw;
+}
+
+.movies-container {
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+  padding: 10px 30px;
+}
+
+.genre-heading {
+  color: #fff;
+}
